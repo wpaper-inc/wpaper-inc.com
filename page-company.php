@@ -69,18 +69,28 @@
               </tr>
               <tr>
                 <td>創設</td>
-								<td>2018年8月</td>
+								<td>2018年9月</td>
                 <!-- <td><?php the_field( 'stand' ); ?></td> -->
               </tr>
               <tr>
                 <td>資本金</td>
                 <!-- <td><?php the_field( 'capital' ); ?></td> -->
-								<td>10万円</td>
+								<td>31万円</td>
               </tr>
-              <tr>
+							<tr>
                 <td>従業員数</td>
                 <!-- <td><?php the_field( 'employee' ); ?>人</td> -->
 								<td>3人</td>
+              </tr>
+              <tr>
+                <td>電話番号</td>
+                <!-- <td><?php the_field( 'employee' ); ?>人</td> -->
+								<td><a href="tel://06-4560-2990">06-4560-2990</a></td>
+              </tr>
+							<tr>
+                <td>FAX</td>
+                <!-- <td><?php the_field( 'employee' ); ?>人</td> -->
+								<td><a href="tel://06-7632-4323">06-7632-4323</a></td>
               </tr>
             </tbody>
           </table>
